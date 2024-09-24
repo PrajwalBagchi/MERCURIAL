@@ -25,6 +25,7 @@ The application uses HTML, JavaScript, and CSS for the base of a spectacular UI.
 3. Deployment:-
 For the deployment part Mercurial uses Flask which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.
 
-![image](https://github.com/user-attachments/assets/be8f26fd-210f-44d0-a9ca-554f4fed45bf)
+![image](https://github.com/user-attachments/assets/6d6361bb-cb53-4704-b1d2-756cb60ae230)
+
 
 
