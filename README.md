@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/46c0118a-c0c7-411d-b155-941e75ee28e6)
+
 # MERCURIAL
 Mercurial is an intelligent music recommendation app that uses cutting-edge machine learning algorithms to suggest incredible tracks to the user. By analyzing the music that the user likes on the app, Mercurial recommends similar tracks based on their vibe. This personalized approach to music discovery ensures that users are always discovering new and exciting music that they love.
 
@@ -24,8 +26,9 @@ The application uses HTML, JavaScript, and CSS for the base of a spectacular UI.
 For the deployment part Mercurial uses Flask which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.
 
 
-![image](https://github.com/user-attachments/assets/46c0118a-c0c7-411d-b155-941e75ee28e6)
+![image](https://github.com/user-attachments/assets/fc5bf6be-252d-4adf-848e-33a78ecc7160)
+![image](https://github.com/user-attachments/assets/e9dc4938-967d-4613-b650-4cec3df30bc8)
+![image](https://github.com/user-attachments/assets/2d6885fc-b67e-4887-8222-c4f2d9b4b69e)
 
-![image](https://github.com/user-attachments/assets/cd3ac96d-3670-4811-9dff-4688b92bae82)
 
 
