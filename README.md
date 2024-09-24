@@ -5,6 +5,7 @@ Mercurial is an intelligent music recommendation app that uses cutting-edge mach
 
 
 DATASET
+
 The "data.csv" file contains more than 160.000 songs collected from Spotify Web API. The dataset is from Spotify and contains 169k songs from the year 1921 to year 2020. The dataset contains information about tracks in form of features such as acousticness, danceability, speechiness, loudness, time stamp, etc.
 
 
@@ -14,6 +15,7 @@ https://www.kaggle.com/datasets/ektanegi/spotifydata-19212020
 
 
 KEY FEATURES
+
 1. Algorithm –
 Mercurial uses the Kmeans++ machine learning algorithm to cluster data points into groups based on their similarity. The algorithm is an improvement over the original K-means algorithm as it selects the initial centroids in a more intelligent way. The algorithm starts by selecting one random data point as the first centroid and then selects the next centroid from the remaining data points based on their distance from the first centroid.
 This continues until all centroids are selected. The result is a set of centroids that are well-spaced, which in turn gives the user those marvelous recommendations. 
